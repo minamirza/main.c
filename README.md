@@ -2,7 +2,7 @@
 
 int main() {
     for (int i = 0; i < 32; i++) {
-        printf("Salam Məktəb\n");
+        printf("Hello School\n");
     }
     return 0;
 }
